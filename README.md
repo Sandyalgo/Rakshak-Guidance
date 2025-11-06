@@ -159,7 +159,7 @@ ESP32 Sensors (MAX30102, LM35, GPS)
 | MAX30102     | I2C (SDA=21, SCL=22)                          |
 | GPS NEO-6M   | TX=17, RX=16                                  |
 | Push Button  | GPIO 25                                       |
-| GSM SIM800L  | TX=27, RX=26 (optional)                       |
+| GSM SIM800L  | TX=27, RX=26                                  |
 | Power Supply | 5V VIN (USB or Li-ion 3.7V + Boost Converter) |
 
 
@@ -219,10 +219,10 @@ Then open your browser at **[http://localhost:3000](http://localhost:3000)**
 
 ## 💬 Team & Credits
 
-**Project:** Rakshak – Real-Time Elderly Health Monitor
-**Team Members:** Sandeep Gadi and Team
-**Platform:** Forge Hackathon
-**Institute:** Sreenidhi Institute of Science and Technology (SNIST)
+**Project:** Rakshak – Real-Time Elderly Health Monitor  
+**Team Members:** Sandeep Gadi and Team  
+**Platform:** Forge Hackathon  
+**Institute:** Sreenidhi Institute of Science and Technology (SNIST)  
 
 ---
 
